@@ -1,0 +1,8 @@
+pandas==1.5.3
+streamlit==1.20.0
+transformers==4.32.0
+fpdf==1.7.2
+numpy==1.23.5
+matplotlib==3.7.1
+scikit-learn==1.3.0
+scikit-fuzzy @ git+https://github.com/scikit-fuzzy/scikit-fuzzy.git@be7e344f3ce65845e39922aa5fc1af7412d01944

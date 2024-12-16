@@ -1,0 +1,373 @@
+[
+    {
+        "user": "Aarav Singh",
+        "data": [
+            {
+                "date": "2024-12-01",
+                "active_time_on_app": 120,
+                "goal_completion_accuracy": 85,
+                "goals_completed_on_time": 10,
+                "avg_task_completion_time": 30,
+                "success_rate": 90
+            },
+            {
+                "date": "2024-12-02",
+                "active_time_on_app": 150,
+                "goal_completion_accuracy": 90,
+                "goals_completed_on_time": 15,
+                "avg_task_completion_time": 25,
+                "success_rate": 92
+            },
+            {
+                "date": "2024-12-03",
+                "active_time_on_app": 130,
+                "goal_completion_accuracy": 88,
+                "goals_completed_on_time": 12,
+                "avg_task_completion_time": 28,
+                "success_rate": 91
+            },
+            {
+                "date": "2024-12-04",
+                "active_time_on_app": 140,
+                "goal_completion_accuracy": 87,
+                "goals_completed_on_time": 14,
+                "avg_task_completion_time": 27,
+                "success_rate": 89
+            },
+            {
+                "date": "2024-12-05",
+                "active_time_on_app": 160,
+                "goal_completion_accuracy": 92,
+                "goals_completed_on_time": 16,
+                "avg_task_completion_time": 24,
+                "success_rate": 93
+            },
+            {
+                "date": "2024-12-06",
+                "active_time_on_app": 110,
+                "goal_completion_accuracy": 85,
+                "goals_completed_on_time": 11,
+                "avg_task_completion_time": 29,
+                "success_rate": 88
+            }
+        ]
+    },
+    {
+        "user": "Priya Gupta",
+        "data": [
+            {
+                "date": "2024-12-01",
+                "active_time_on_app": 100,
+                "goal_completion_accuracy": 75,
+                "goals_completed_on_time": 8,
+                "avg_task_completion_time": 35,
+                "success_rate": 85
+            },
+            {
+                "date": "2024-12-02",
+                "active_time_on_app": 130,
+                "goal_completion_accuracy": 80,
+                "goals_completed_on_time": 10,
+                "avg_task_completion_time": 30,
+                "success_rate": 88
+            },
+            {
+                "date": "2024-12-03",
+                "active_time_on_app": 120,
+                "goal_completion_accuracy": 78,
+                "goals_completed_on_time": 9,
+                "avg_task_completion_time": 32,
+                "success_rate": 86
+            },
+            {
+                "date": "2024-12-04",
+                "active_time_on_app": 140,
+                "goal_completion_accuracy": 82,
+                "goals_completed_on_time": 11,
+                "avg_task_completion_time": 28,
+                "success_rate": 89
+            },
+            {
+                "date": "2024-12-05",
+                "active_time_on_app": 150,
+                "goal_completion_accuracy": 85,
+                "goals_completed_on_time": 13,
+                "avg_task_completion_time": 27,
+                "success_rate": 90
+            },
+            {
+                "date": "2024-12-06",
+                "active_time_on_app": 110,
+                "goal_completion_accuracy": 77,
+                "goals_completed_on_time": 8,
+                "avg_task_completion_time": 34,
+                "success_rate": 84
+            }
+        ]
+    },
+    {
+        "user": "Rohan Mehta",
+        "data": [
+            {
+                "date": "2024-12-01",
+                "active_time_on_app": 110,
+                "goal_completion_accuracy": 80,
+                "goals_completed_on_time": 9,
+                "avg_task_completion_time": 32,
+                "success_rate": 87
+            },
+            {
+                "date": "2024-12-02",
+                "active_time_on_app": 140,
+                "goal_completion_accuracy": 85,
+                "goals_completed_on_time": 12,
+                "avg_task_completion_time": 28,
+                "success_rate": 89
+            },
+            {
+                "date": "2024-12-03",
+                "active_time_on_app": 130,
+                "goal_completion_accuracy": 83,
+                "goals_completed_on_time": 11,
+                "avg_task_completion_time": 30,
+                "success_rate": 88
+            },
+            {
+                "date": "2024-12-04",
+                "active_time_on_app": 150,
+                "goal_completion_accuracy": 87,
+                "goals_completed_on_time": 13,
+                "avg_task_completion_time": 26,
+                "success_rate": 90
+            },
+            {
+                "date": "2024-12-05",
+                "active_time_on_app": 160,
+                "goal_completion_accuracy": 90,
+                "goals_completed_on_time": 15,
+                "avg_task_completion_time": 25,
+                "success_rate": 92
+            },
+            {
+                "date": "2024-12-06",
+                "active_time_on_app": 120,
+                "goal_completion_accuracy": 82,
+                "goals_completed_on_time": 10,
+                "avg_task_completion_time": 31,
+                "success_rate": 87
+            }
+        ]
+    },
+    {
+        "user": "Ananya Sharma",
+        "data": [
+            {
+                "date": "2024-12-01",
+                "active_time_on_app": 95,
+                "goal_completion_accuracy": 70,
+                "goals_completed_on_time": 7,
+                "avg_task_completion_time": 40,
+                "success_rate": 80
+            },
+            {
+                "date": "2024-12-02",
+                "active_time_on_app": 125,
+                "goal_completion_accuracy": 78,
+                "goals_completed_on_time": 9,
+                "avg_task_completion_time": 33,
+                "success_rate": 83
+            },
+            {
+                "date": "2024-12-03",
+                "active_time_on_app": 115,
+                "goal_completion_accuracy": 75,
+                "goals_completed_on_time": 8,
+                "avg_task_completion_time": 35,
+                "success_rate": 82
+            },
+            {
+                "date": "2024-12-04",
+                "active_time_on_app": 135,
+                "goal_completion_accuracy": 80,
+                "goals_completed_on_time": 10,
+                "avg_task_completion_time": 30,
+                "success_rate": 85
+            },
+            {
+                "date": "2024-12-05",
+                "active_time_on_app": 145,
+                "goal_completion_accuracy": 83,
+                "goals_completed_on_time": 11,
+                "avg_task_completion_time": 29,
+                "success_rate": 87
+            },
+            {
+                "date": "2024-12-06",
+                "active_time_on_app": 105,
+                "goal_completion_accuracy": 72,
+                "goals_completed_on_time": 7,
+                "avg_task_completion_time": 37,
+                "success_rate": 81
+            }
+        ]
+    },
+    {
+        "user": "Vikram Patel",
+        "data": [
+            {
+                "date": "2024-12-01",
+                "active_time_on_app": 105,
+                "goal_completion_accuracy": 82,
+                "goals_completed_on_time": 10,
+                "avg_task_completion_time": 31,
+                "success_rate": 88
+            },
+            {
+                "date": "2024-12-02",
+                "active_time_on_app": 135,
+                "goal_completion_accuracy": 88,
+                "goals_completed_on_time": 13,
+                "avg_task_completion_time": 27,
+                "success_rate": 91
+            },
+            {
+                "date": "2024-12-03",
+                "active_time_on_app": 125,
+                "goal_completion_accuracy": 85,
+                "goals_completed_on_time": 11,
+                "avg_task_completion_time": 29,
+                "success_rate": 89
+            },
+            {
+                "date": "2024-12-04",
+                "active_time_on_app": 145,
+                "goal_completion_accuracy": 90,
+                "goals_completed_on_time": 14,
+                "avg_task_completion_time": 26,
+                "success_rate": 92
+            },
+            {
+                "date": "2024-12-05",
+                "active_time_on_app": 155,
+                "goal_completion_accuracy": 92,
+                "goals_completed_on_time": 15,
+                "avg_task_completion_time": 25,
+                "success_rate": 93
+            },
+            {
+                "date": "2024-12-06",
+                "active_time_on_app": 115,
+                "goal_completion_accuracy": 80,
+                "goals_completed_on_time": 9,
+                "avg_task_completion_time": 32,
+                "success_rate": 87
+            }
+        ]
+    },
+    {
+        "user": "Sanya Kapoor",
+        "data": [
+            {
+                "date": "2024-12-01",
+                "active_time_on_app": 115,
+                "goal_completion_accuracy": 77,
+                "goals_completed_on_time": 8,
+                "avg_task_completion_time": 36,
+                "success_rate": 84
+            },
+            {
+                "date": "2024-12-02",
+                "active_time_on_app": 145,
+                "goal_completion_accuracy": 83,
+                "goals_completed_on_time": 11,
+                "avg_task_completion_time": 29,
+                "success_rate": 86
+            },
+            {
+                "date": "2024-12-03",
+                "active_time_on_app": 135,
+                "goal_completion_accuracy": 80,
+                "goals_completed_on_time": 10,
+                "avg_task_completion_time": 31,
+                "success_rate": 85
+            },
+            {
+                "date": "2024-12-04",
+                "active_time_on_app": 155,
+                "goal_completion_accuracy": 85,
+                "goals_completed_on_time": 12,
+                "avg_task_completion_time": 28,
+                "success_rate": 88
+            },
+            {
+                "date": "2024-12-05",
+                "active_time_on_app": 165,
+                "goal_completion_accuracy": 87,
+                "goals_completed_on_time": 13,
+                "avg_task_completion_time": 27,
+                "success_rate": 90
+            },
+            {
+                "date": "2024-12-06",
+                "active_time_on_app": 125,
+                "goal_completion_accuracy": 78,
+                "goals_completed_on_time": 9,
+                "avg_task_completion_time": 33,
+                "success_rate": 84
+            }
+        ]
+    },
+    {
+        "user": "Karan Verma",
+        "data": [
+            {
+                "date": "2024-12-01",
+                "active_time_on_app": 125,
+                "goal_completion_accuracy": 79,
+                "goals_completed_on_time": 9,
+                "avg_task_completion_time": 34,
+                "success_rate": 85
+            },
+            {
+                "date": "2024-12-02",
+                "active_time_on_app": 155,
+                "goal_completion_accuracy": 84,
+                "goals_completed_on_time": 12,
+                "avg_task_completion_time": 30,
+                "success_rate": 88
+            },
+            {
+                "date": "2024-12-03",
+                "active_time_on_app": 145,
+                "goal_completion_accuracy": 82,
+                "goals_completed_on_time": 11,
+                "avg_task_completion_time": 32,
+                "success_rate": 87
+            },
+            {
+                "date": "2024-12-04",
+                "active_time_on_app": 165,
+                "goal_completion_accuracy": 86,
+                "goals_completed_on_time": 13,
+                "avg_task_completion_time": 28,
+                "success_rate": 90
+            },
+            {
+                "date": "2024-12-05",
+                "active_time_on_app": 175,
+                "goal_completion_accuracy": 88,
+                "goals_completed_on_time": 14,
+                "avg_task_completion_time": 27,
+                "success_rate": 92
+            },
+            {
+                "date": "2024-12-06",
+                "active_time_on_app": 135,
+                "goal_completion_accuracy": 80,
+                "goals_completed_on_time": 10,
+                "avg_task_completion_time": 31,
+                "success_rate": 86
+            }
+        ]
+    }
+]
