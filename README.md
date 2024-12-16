@@ -1,13 +1,13 @@
 # App Usage and Performance Advisor
 
-This Streamlit application provides users with insights into their app usage and performance, offering detailed metrics and analysis. The app allows users to view performance data for single or multiple users, generate visualizations, estimate goal achievement using fuzzy logic, and interact with a virtual project manager for advice.
+This Streamlit application provides users with insights into their app usage and performance, offering detailed metrics and analysis. The app allows users to view performance data for single or multiple users, generate visualizations, estimate goal achievement using fuzzy logic, interact with a virtual project manager for advice, and export performance data to a PDF report.
 
 ## Features
 
-- **Single User or Multiple Users Analysis**: Allows users to analyze performance metrics for one or more users.
-- **Goal Completion Accuracy**: Visualizes goal completion accuracy with various chart types such as bar charts, line charts, area charts, pie charts, scatter charts, and radar charts.
-- **Goal Achievement Estimation**: Uses fuzzy logic to estimate goal achievement based on goal completion accuracy and time spent on the app.
-- **Virtual Project Manager Chat**: Interact with a virtual project manager to get advice, sentiment analysis of your input, and data-driven suggestions.
+- **Single User or Multiple Users Analysis**: Analyze performance metrics for one or more users.
+- **Goal Completion Accuracy Visualization**: Visualize goal completion accuracy using various chart types such as bar charts, line charts, area charts, pie charts, scatter charts, and radar charts.
+- **Goal Achievement Estimation**: Use fuzzy logic to estimate goal achievement based on goal completion accuracy and time spent on the app.
+- **Virtual Project Manager Chat**: Interact with a virtual project manager for advice, sentiment analysis, and data-driven suggestions.
 - **Export to PDF**: Export performance data and analysis to a PDF report.
 
 ## Installation
@@ -17,8 +17,8 @@ To run this project locally, you need to install the required dependencies. Foll
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-repository/app-usage-performance-advisor.git
-    cd app-usage-performance-advisor
+    git clone https://github.com/Omcodes23/App-Usage-and-Performance-Advisor.git
+    cd App-Usage-and-Performance-Advisor
     ```
 
 2. Create a virtual environment:
@@ -34,7 +34,7 @@ To run this project locally, you need to install the required dependencies. Foll
     pip install -r requirements.txt
     ```
 
-4. Ensure you have the `fine_tuning_params.txt` and `app_usage_data.json` files in your project directory.
+4. Ensure you have the `app_usage_data.json` file in your project directory.
 
 5. Run the Streamlit app:
 
@@ -44,8 +44,7 @@ To run this project locally, you need to install the required dependencies. Foll
 
 ## Files
 
-- **app.py**: The main Streamlit app file that contains all the logic for user selection, data analysis, visualizations, and PDF export.
-- **fine_tuning_params.txt**: A text file containing parameters for fine-tuning the model.
+- **app.py**: The main Streamlit app file that contains all the logic for user selection, data analysis, visualizations, goal achievement estimation, chat functionality, and PDF export.
 - **app_usage_data.json**: The dataset file in JSON format containing app usage and performance data.
 
 ## Dataset
